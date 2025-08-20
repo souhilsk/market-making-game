@@ -8,9 +8,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Local environments (if you use venv/conda env in repo)
+# Local environments
 .venv/
 env/
-
-# Local data (optional to keep repo small)
-data/
