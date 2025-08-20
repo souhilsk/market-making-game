@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments (if you use venv/conda env in repo)
+.venv/
+env/
+
+# Local data (optional to keep repo small)
+data/
